@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# The who command
+# The who command is used to display who is currently logged in to the system.
 whoami=$(who)
 echo $whoami
 

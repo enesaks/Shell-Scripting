@@ -1,0 +1,7 @@
+#!/bin/bash
+
+cat << a
+dasdakldad  dd      
+daşldmalsd
+kaddsd
+a
